@@ -8,7 +8,6 @@ Used FireBase library for registering and logging users in and out.
 <br />
 ![Screenshot](https://github.com/abhimanyu1993/AuthorizationApp/blob/master/Screenshot%20from%202018-11-21%2011-34-24.png)
 
-
 ## Get Started
 
 ```sh
